@@ -11,13 +11,11 @@ Accurate demand prediction enables businesses to:
 - Improve pricing strategy
 - Enhance revenue forecasting accuracy
 
----
 
 ## Dataset
 
 Retail sales dataset sourced from Kaggle, containing historical sales transactions across multiple stores and products.
 
----
 
 ## Methodology
 
@@ -41,7 +39,6 @@ Implemented and compared:
 - Multiple Linear Regression
 - Gradient Descent (implemented from scratch)
 
----
 
 ## Model Evaluation
 
@@ -54,7 +51,6 @@ Findings:
 - Feature engineering enhanced model performance.
 - Gradient descent converged efficiently with proper learning rate selection.
 
----
 
 ## Key Insights
 
@@ -62,7 +58,6 @@ Findings:
 - Promotional periods significantly increase sales.
 - Seasonality plays a critical role in forecasting accuracy.
 
----
 
 ## Tools & Technologies
 
@@ -72,7 +67,6 @@ Findings:
 - Scikit-learn
 - Matplotlib / Seaborn
 
----
 
 ## Future Improvements
 
@@ -81,7 +75,6 @@ Findings:
 - Tree-based models
 - Model deployment
 
----
 
 ## Author
 
